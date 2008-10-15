@@ -1,0 +1,11 @@
+body { background:#faf5ff; margin:0pt; font-family:Arial,Helvetica,sans-serif; }
+a:link { text-decoration: underline; }
+a:visited { text-decoration: underline; }
+a:hover { color:#222266; }
+.sitenav { background:#e1e1e1; }
+.pagenav { font-size:small; }
+.index { line-height: 150%; }
+.sitenav { background:#e1e1e1; }
+.navitem { font-size: small; }
+.horizontal-line { font-size: small; background-color : #c1c1c1; height : 0px; }
+.dateitem { text-align: right; font-size: x-small; }
