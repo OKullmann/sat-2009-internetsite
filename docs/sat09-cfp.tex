@@ -1,0 +1,220 @@
+%%% sat09-cfp.tex --- 
+
+%% Author: jpms
+%% Version: $Id: sat07-cfp.tex,v 1.5 2006/12/07 19:50:55 jpms Exp $
+
+
+%%%%##########################################################################
+%%%% Configurations
+%%%%
+\documentclass[10pt]{article}
+
+\usepackage[usenames]{color}
+\usepackage{url}
+\usepackage{hyperref}
+
+\usepackage{a4wide}
+
+
+%% Redefine the page layout
+%%
+\addtolength{\textheight}{60pt}
+\addtolength{\topmargin}{-60pt}
+\addtolength{\textwidth}{100pt}
+\addtolength{\oddsidemargin}{-50pt}
+\addtolength{\evensidemargin}{-50pt}
+\setlength{\marginparwidth}{0pt}
+
+\def \baselinestretch{0.95}
+
+\newcommand{\bthlight}[1]{{\color[rgb]{0.2,0.2,0.5}#1}}
+\newcommand{\bhlight}[1]{{\color[rgb]{0.2,0.2,0.6}#1}}
+\newcommand{\ghlight}[1]{{\color[rgb]{0.1,0.4,0.1}#1}}
+
+\definecolor{URLGreen}{rgb}{0.1,0.5,0.1} 
+
+\hypersetup{colorlinks=true,pdfborder={0 0 0},urlbordercolor={0 0 0},
+urlcolor=URLGreen}
+%linkcolor={0.1 0.4 0.1},filecolor={0.1 0.4 0.1}
+
+
+%%%%##########################################################################
+%%%% The main document
+%%%%
+\begin{document}
+
+\pagestyle{empty}
+
+\begin{center}
+  {\bf
+    \bthlight{{\huge SAT 2009}} \\[0.3cm]
+    {\Large Call for Papers} \\[0.15cm]
+    \bthlight{
+      {\LARGE 12th International Conference on} \\[0.2cm]
+      {\LARGE Theory and Applications of Satisfiability Testing} \\[0.15cm]
+      {\Large June 30 - July 3, Swansea, Wales, United Kingdom}
+    } \\[0.15cm]
+    {\large \url{http://cs-svr1.swan.ac.uk/~csoliver/SAT2009}}
+  }
+\end{center}
+
+\vspace*{-0.1cm} %vfill
+%
+\begin{minipage}[t]{7.5cm}
+{\large {\bf \bhlight{Conference Chair}}} \\[0.05cm]
+{\small
+  Oliver Kullmann, University of Wales, Swansea, UK\\[0.3cm]
+}
+{\large {\bf \bhlight{Invited Speakers}}} \\%[0.1cm]
+{\small
+  Robert Nieuwenhuis, Tech.~Univ.~Catalonia, Spain\\
+  Moshe Vardi, Rice University, U.S.A.\\[0.3cm]
+}
+{\large {\bf \bhlight{Important Dates}}} \\[0.05cm]
+{\small
+  February 20, {\em Abstract Submission} \\
+  February 27, {\em Paper Submission} \\
+  March 22, {\em Author Notification} \\
+  March 29, {\em Final Version} \\[0.3cm]
+}
+{\large {\bf \bhlight{Technical Program Committee}}} \\[0.05cm]
+{\small
+  {\bf TBA}
+%   Fahiem Bacchus, University of Toronto, Canada \\
+%   Paul Beame, University of Washington, USA \\
+%   Armin	Biere, Johannes Kepler Univ., Austria \\
+%   Adnan Darwiche, UCLA, USA \\
+%   Leonardo de Moura, Microsoft Research, USA \\
+%   Niklas \'{E}en, Cadence Design Systems, USA \\
+%   John Franco, University of Cincinnati,  USA\\
+%   Ian Gent, University of ~St.~Andrews, UK \\
+%   Enrico Giunchiglia, Univ.~di Genova, Italy \\
+%   Carla Gomes, Cornell University, USA \\
+%   Aarti Gupta, NEC Research Labs, USA \\
+%   Ziyad Hanna, Intel Corp., Israel \\
+%   Edward A.~Hirsch, Steklov Inst.~Mathematics, Russia \\
+%   Joonyoung Kim, Intel Corp., USA \\
+%   Hans Kleine-B\"{u}ning, Univ.~Paderborn, Germany\\
+%   James Kukula, Synopsys ATG, USA \\
+%   Oliver Kullmann, University of Wales Swansea, UK \\
+%   Daniel Le Berre, Universit\'{e} d'Artois, France \\
+%   Chu-Min Li, Universit\'{e} de Picardie, France \\
+%   Ines Lynce, Tech.~Univ.~Lisbon, Portugal \\
+%   Panagiotis Manolios, Georgia Inst.~Technology, USA \\
+%   Vasco Manquinho, Tech.~Univ.~Lisbon, Portugal \\
+%   Slawomir Pilarski, Magma DA, USA \\
+%   Steve Prestwich, University College Cork, Ireland \\
+%   Roberto Sebastiani, Univ.~Trento, Italy \\
+%   Hossein Sheini, CMU, USA \\
+%   Laurent Simon, Universit\'{e} Paris Sud, France \\
+%   Ewald Speckenmeyer, Universit\"{a}t~K\"{o}ln, Germany \\
+%   Ofer Strichman, Technion, Israel \\
+%   Stefan Szeider, Durham University, UK \\
+%   Armando Tacchella, Univ.~di Genova, Italy \\
+%   Allen Van Gelder, UC Santa Cruz, USA \\
+%   Hans van Maaren, Tech.~Univ.~Delft, Netherlands \\
+%   Toby Walsh, National ICT, Australia \\
+%   Lintao Zhang, Microsoft Research, USA
+}
+\end{minipage}
+\hspace*{0.35cm}
+\begin{minipage}[t]{9.25cm}
+  \begin{minipage}[t]{9.25cm}
+    \vspace*{0.15cm}
+  {\small
+  The International Conference on Theory and Applications of
+  Satisfiability Testing (\href{http://www.satisfiability.org}{SAT})
+  is the primary annual meeting for researchers studying the
+  propositional satisfiability
+  problem. \href{http://cs-svr1.swan.ac.uk/~csoliver/SAT2009}{SAT
+    2009} is the twelthSAT conference. SAT 2009 features the
+  \href{http://www.satcompetition.org/2009}{SAT competition}, the
+  \href{http://www.qbflib.org/qbfeval}{QBF competition}, the
+  \href{http://www.cril.univ-artois.fr/PB09}{Pseudo-Boolean evaluation}, and the
+  \href{http://www.maxsat07.udl.es}{MAX-SAT evaluation}. \\[0.1cm]
+%
+  Many hard combinatorial problems can be encoded into
+  SAT. Therefore improvements on heuristics on the practical side, as
+  well as theoretical insights into SAT, apply to a large range of
+  real-world problems. More specifically, many important practical
+  verification problems can be rephrased as SAT problems. This
+  applies to verification problems in hardware and software. Thus SAT
+  is becoming one of the most important core technologies to verify
+  secure and dependable systems. The topics of the conference span
+  practical and theoretical research on SAT and its applications and
+  include but are not limited to proof systems, proof complexity,
+  search algorithms, heuristics, analysis of algorithms, hard
+  instances, randomized formulae, problem encodings, industrial
+  applications, solvers, simplifiers, tools, case studies and
+  empirical results. SAT is interpreted in a rather broad sense:
+  besides propositional satisfiability, it includes the domain
+  of quantified boolean formulae (QBF), constraints programming
+  techniques (CSP) for word-level problems and their propositional
+  encoding and particularly satisfiability modulo theories (SMT). \\[0.1cm]
+%
+  Submissions should contain original material and can either be
+  regular research papers up to 14 pages or short papers up to 6
+  pages. Double submissions including submissions as short and long
+  papers will be rejected.  Submissions should use the 
+  \href{http://www.springer.com/comp/lncs/Authors.html}{Springer LNCS}
+  style. All appendices, tables, figures and the bibliography 
+  must fit into the page limit. Submissions deviating from these
+  requirements may be rejected without review. All accepted papers
+  including short papers will be published in the proceedings of the
+  conference. The conference proceedings will be published within
+  the Springer LNCS series. The paper submission page is
+  \url{http://www.easychair.org/SAT2009}. Papers have to be submitted
+  electronically as PDF files.  Paper submissions are due by January
+  19.
+  }
+  \end{minipage}
+
+  \begin{minipage}[t]{9.25cm}
+    \vspace*{0.35cm}
+    \begin{minipage}[t]{4.5cm}
+      \bthlight{{\bf SAT Competition}} \\
+	       {\small \url{www.satcompetition.org/2009}}\\[0.15cm]
+	       Daniel Le Berre\\
+	       Laurent Simon\\[0.15cm]
+	       Ewald Speckenmeyer\\
+	       Geoff Sutcliffe \\
+	       Lintao Zhang %\\ [0.15cm]
+    \end{minipage}
+    \hspace*{0.5cm}
+    \begin{minipage}[t]{4.25cm}
+      \bthlight{{\bf MAX-SAT Evaluation}}\\
+	       {\small \url{www.maxsat07.udl.es}}\\[0.15cm]
+	       Josep Argelich\\
+	       Chu-Min Li\\
+	       Felip Many\`{a}\\
+	       Jordi Planes %\\[0.15cm]
+    \end{minipage}
+
+    \begin{minipage}[t]{9.25cm}
+      \vspace*{0.25cm}
+      \begin{minipage}[t]{4.5cm}
+	\bthlight{{\bf PB Evaluation}}\\
+		 {\small \url{www.cril.univ-artois.fr/PB09}}\\[0.15cm]
+		 Vasco Manquinho\\
+		 Olivier Roussel %\\[0.15cm]
+      \end{minipage}
+      \hspace*{0.5cm} %\hfill
+      \begin{minipage}[t]{4.25cm}
+	\bthlight{{\bf QBF Competition}}\\
+		 {\small \url{www.qbflib.org/qbfeval}}\\[0.15cm]
+		 Massimo Narizzano \\
+		 Luca Pulina \\
+		 Armando Tacchella %\\[0.15cm]
+      \end{minipage}
+    \end{minipage}
+  \end{minipage}
+
+
+\end{minipage}
+%
+
+\end{document}
+
+%%%%
+%%%%##########################################################################
+

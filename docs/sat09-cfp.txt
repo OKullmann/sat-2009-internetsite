@@ -4,23 +4,24 @@
 	         12th International Conference on
 	Theory and Applications of Satisfiability Testing
 
-	     June 30 - July 3, Swansea, United Kingdom
+	       June 20 - July 3, Swansea, Wales, UK
 
-      http://cs-svr1.swan.ac.uk/~csoliver/SAT2009/index.html
+           http://cs-svr1.swan.ac.uk/~csoliver/SAT2009
 
 
   The International Conference on Theory and Applications of
   Satisfiability Testing is the primary annual meeting for researchers
-  studying the propositional satisfiability problem (SAT). SAT09 is
-  the twelfth SAT conference. SAT09 features the SAT Race, the
-  Max-SAT Evaluation, and the QBFEVAL.
+  studying the propositional satisfiability problem (SAT). SAT'09 is
+  the twelth SAT conference. SAT'09 features the SAT competition, the
+  QBF competition, the Pseudo-Boolean evaluation, and the MAX-SAT
+  evaluation.
 
 
 SCOPE 
 
   Many hard combinatorial problems can be encoded into SAT.
-  Therefore improvements on heuristics on the practical side, as well 
-  as theoretical insights into SAT apply to a large range of real-world
+  Therefore improvements on heuristics on the practical, as well as
+  theoretical insights into SAT apply to a large range of real-world
   problems. More specifically, many important practical verification
   problems can be rephrased as SAT problems. This applies to
   verification problems in hardware and software. Thus SAT is becoming
@@ -46,32 +47,70 @@ SUBMISSION
   papers will be rejected.  Submissions should use the Springer
   LNCS style. All appendices, tables, figures and the bibliography
   must fit into the page limit. Submissions deviating from these
-  requirements may be rejected without review. 
-  
-  All accepted papers including short papers will be published 
-  in the proceedings of the conference. The conference proceedings 
-  will be published within Springer LNCS series. The submission page is
+  requirements may be rejected without review. All accepted papers
+  including short papers will be published in the proceedings of the
+  conference. The conference proceedings will be published within
+  Springer LNCS series. The submission page is
   http://www.easychair.org/SAT2009. Papers have to be submitted
-  electronically as PDF files. 
-
-
-IMPORTANT DATES
-
-  February 20, 2009  Abstract Submission
-  February 27, 2009  Paper Submission
-  March 22,    2009  Author Notification
-  March 29,    2008  Final Version
+  electronically as PDF files. Abstract submissions are due by
+  February 20 and papers submissions by February 27.
 
 
 PROGRAM CHAIRS
 
-  Oliver Kullmann, Swansea University, United Kingdom
+  Oliver Kullmann, University of Wales, Swansea, Wales, UK
 
-LOCAL CHAIR / Organization Committee
 
-  Arnold Beckmann, Swansea University, United Kingdom
-  Matthew Gwynne, Swansea University, United Kingdom
+INVITED SPEAKERS
+
+  Robert Nieuwenhuis, Tech.~Univ.~Catalonia, Spain
+  Moshe Vardi, Rice University, U.S.A.
+
+
+IMPORTANT DATES
+
+  February 20, Abstract Submission
+  February 27, Paper Submission
+  March 22, Author Notification
+  March 29, Final Version
 
 
 TECHNICAL PROGRAM COMMITTEE
+
+  TBA
+
+
+SAT COMPETITION
+http://www.satcompetition.org/2009
+
+  Daniel Le Berre, Universite d'Artois, France
+  Laurent Simon, Universite Paris Sud, France
+
+  Ewald Speckenmeyer, Universitat Koln, Germany
+  Geoff Sutcliffe, University of Miami, USA
+  Lintao Zhang, Microsoft Research, USA
+
+
+QBF COMPETITION
+http://www.qbflib.org/qbfeval
+
+  Massimo Narizzano, Universita di Genova, Italy
+  Luca Pulina, Universita di Genova, Italy
+  Armando Tacchella, Universita di Genova, Italy
+
+
+PSEUDO BOOLEAN EVALUATION
+http://www.cril.univ-artois.fr/PB09
+
+  Olivier Roussel, Universite d'Artois, France
+  Vasco Manquinho, Technical University of Lisbon, Portugal
+
+
+MAX-SAT EVALUATION
+http://www.maxsat07.udl.es
+
+  Josep Argelich, IIIA-CSIC, Spain
+  Chu Min Li, Universite de Picardie, France
+  Felip Manya, IIIA-CSIC, Spain
+  Jordi Planes, IIIA-CSIC, Spain
 
