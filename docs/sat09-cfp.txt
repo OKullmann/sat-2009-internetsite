@@ -6,15 +6,14 @@
 
 	       June 20 - July 3, Swansea, Wales, UK
 
-           http://cs-svr1.swan.ac.uk/~csoliver/SAT2009
+           http://www.cs.swan.ac.uk/~csoliver/SAT2009
 
 
   The International Conference on Theory and Applications of
   Satisfiability Testing is the primary annual meeting for researchers
   studying the propositional satisfiability problem (SAT). SAT'09 is
   the twelth SAT conference. SAT'09 features the SAT competition, the
-  QBF competition, the Pseudo-Boolean evaluation, and the MAX-SAT
-  evaluation.
+  the Pseudo-Boolean evaluation, and the MAX-SAT evaluation.
 
 
 SCOPE 
@@ -51,14 +50,14 @@ SUBMISSION
   including short papers will be published in the proceedings of the
   conference. The conference proceedings will be published within
   Springer LNCS series. The submission page is
-  http://www.easychair.org/SAT2009. Papers have to be submitted
-  electronically as PDF files. Abstract submissions are due by
-  February 20 and papers submissions by February 27.
+  http://www.easychair.org/conferences/?conf=sat2009. Papers have to
+  be submitted electronically as PDF files. Abstract submissions are
+  due by February 20 and papers submissions by February 27.
 
 
 PROGRAM CHAIRS
 
-  Oliver Kullmann, University of Wales, Swansea, Wales, UK
+  Oliver Kullmann, Swansea University, Wales, UK
 
 
 INVITED SPEAKERS
@@ -89,14 +88,6 @@ http://www.satcompetition.org/2009
   Ewald Speckenmeyer, Universitat Koln, Germany
   Geoff Sutcliffe, University of Miami, USA
   Lintao Zhang, Microsoft Research, USA
-
-
-QBF COMPETITION
-http://www.qbflib.org/qbfeval
-
-  Massimo Narizzano, Universita di Genova, Italy
-  Luca Pulina, Universita di Genova, Italy
-  Armando Tacchella, Universita di Genova, Italy
 
 
 PSEUDO BOOLEAN EVALUATION
