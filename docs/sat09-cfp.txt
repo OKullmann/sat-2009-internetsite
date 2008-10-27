@@ -70,8 +70,8 @@ IMPORTANT DATES
 
   February 20, Abstract Submission
   February 27, Paper Submission
-  March 22, Author Notification
-  March 29, Final Version
+  March 29, Author Notification
+  April 12, Final Version
 
 
 TECHNICAL PROGRAM COMMITTEE
@@ -80,25 +80,25 @@ TECHNICAL PROGRAM COMMITTEE
 
 
 SAT COMPETITION
-http://www.satcompetition.org/2009
+http://www.satcompetition.org/2009/
 
   Daniel Le Berre, Universite d'Artois, France
   Laurent Simon, Universite Paris Sud, France
 
-  Ewald Speckenmeyer, Universitat Koln, Germany
-  Geoff Sutcliffe, University of Miami, USA
-  Lintao Zhang, Microsoft Research, USA
+  Andreas Goerdt, Universitaet Chemnitz, Germany
+  ???
+  ???
 
 
 PSEUDO BOOLEAN EVALUATION
-http://www.cril.univ-artois.fr/PB09
+http://www.cril.univ-artois.fr/PB09/
 
   Olivier Roussel, Universite d'Artois, France
   Vasco Manquinho, Technical University of Lisbon, Portugal
 
 
 MAX-SAT EVALUATION
-http://www.maxsat07.udl.es
+http://www.maxsat.udl.cat/09/
 
   Josep Argelich, IIIA-CSIC, Spain
   Chu Min Li, Universite de Picardie, France
