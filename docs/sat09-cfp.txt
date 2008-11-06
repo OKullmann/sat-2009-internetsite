@@ -76,7 +76,43 @@ IMPORTANT DATES
 
 TECHNICAL PROGRAM COMMITTEE
 
-  TBA
+  Dimitris Achlioptas, UC Santa Cruz, USA
+  Armin Biere, Johannes Kepler University, Austria
+  Stephen Cook, University of Toronto, Canada
+  Nadia Creignou, Universite de la Mediterranee, France
+  Evgeny Dantsin, Roosevelt University, Chicago
+  Adnan Darwiche, UCLA, USA
+  John Franco, University of Cincinnati, USA
+  Nicola Galesi, Universita di Roma, Italy
+  Enrico Giunchiglia, Universita di Genova, Italy
+  Marijn Heule, Technische Universiteit Delft, Netherlands
+  Edward Hirsch, Steklov Institute of Mathematics, Russia
+  Kazuo Iwama, Kyoto University, Japan
+  Daniel LeBerre, Universite d'Artois, France
+  Chumin Li, Universite de Picardie, France
+  Ines Lynce, Instituto Superior Tecnico, Portugal
+  Panagiotis Manolios, Northeastern University, USA
+  Joao Marques-Silva, University of Southampton, UK
+  David Mitchell, Simon Fraser University, Canada
+  Hans Kleine Buening, University of Paderborn, Germany
+  Albert Oliveras, Technical University of Catalonia, Spain
+  Ramamohan Paturi, University of California, USA
+  Lakhdar Sais, Universite d'Artois, France
+  Karem Sakallah, University of Michigan, USA
+  Uwe Schoening, Universitat Ulm, Germany
+  Roberto Sebastiani, Universita di Trento, Italy
+  Robert Sloan, University of Illinois, USA
+  Niklas Sorensson, Chalmers University of Technology, Sweden
+  Ewald Speckenmeyer, Universitat Koln, Germany
+  Stefan Szeider, Durham University, UK
+  Armando Tacchella, Universita di Genova, UK
+  Allen Van Gelder, Stanford University, USA
+  Hans van Maaren, Delft University of Technology, Netherlands
+  Toby Walsh, University of New South Wales, Australia
+  Sean Weaver, University of Cincinnati, USA
+  Emo Welzl, ETH Zurich, Switzerland
+  Lintao Zhang, Microsoft Research, USA
+  Xishun Zhao, Sun Yat-Sen University, Guangzhou, P.R. China
 
 
 SAT COMPETITION
