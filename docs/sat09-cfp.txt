@@ -101,6 +101,7 @@ TECHNICAL PROGRAM COMMITTEE
   Karem A. Sakallah, University of Michigan, USA
   Uwe Schoening, Universitat Ulm, Germany
   Roberto Sebastiani, Universita di Trento, Italy
+  Carsten Sinz, University of Karlsruhe, Germany
   Robert H. Sloan, University of Illinois, USA
   Niklas Sorensson, Chalmers University of Technology, Sweden
   Ewald Speckenmeyer, Universitat Koln, Germany
