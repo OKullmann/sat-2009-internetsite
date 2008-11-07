@@ -106,6 +106,7 @@ TECHNICAL PROGRAM COMMITTEE
   Ewald Speckenmeyer, Universitat Koln, Germany
   Stefan Szeider, Durham University, UK
   Armando Tacchella, Universita di Genova, UK
+  Alasdair Urquhart,  University of Toronto, Canada
   Allen Van Gelder, Stanford University, USA
   Hans van Maaren, Delft University of Technology, Netherlands
   Toby Walsh, University of New South Wales, Australia
