@@ -121,18 +121,15 @@ SAT COMPETITION
 http://www.satcompetition.org/2009/
 
   Daniel Le Berre, Universite d'Artois, France
+  Olivier Roussel, Universite d'Artois, France
   Laurent Simon, Universite Paris Sud, France
-
-  Andreas Goerdt, Universitaet Chemnitz, Germany
-  ???
-  ???
 
 
 PSEUDO BOOLEAN EVALUATION
 http://www.cril.univ-artois.fr/PB09/
 
-  Olivier Roussel, Universite d'Artois, France
   Vasco Manquinho, Technical University of Lisbon, Portugal
+  Olivier Roussel, Universite d'Artois, France
 
 
 MAX-SAT EVALUATION
