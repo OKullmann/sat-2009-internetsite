@@ -12,7 +12,7 @@
   The International Conference on Theory and Applications of
   Satisfiability Testing is the primary annual meeting for researchers
   studying the propositional satisfiability problem (SAT). SAT'09 is
-  the twelth SAT conference. SAT'09 features the SAT competition, the
+  the twelfth SAT conference. SAT'09 features the SAT competition, the
   the Pseudo-Boolean evaluation, and the MAX-SAT evaluation.
 
 
@@ -26,15 +26,15 @@ SCOPE
   verification problems in hardware and software. Thus SAT is becoming
   one of the most important core technologies to verify secure and
   dependable systems. The topics of the conference span practical and
-  theoretical research on SAT and its applications and include but are
-  not limited to proof systems, proof complexity, search algorithms,
+  theoretical research on SAT and its applications, and include, but are
+  not limited to, proof systems, proof complexity, search algorithms,
   heuristics, analysis of algorithms, hard instances, randomized
   formulae, problem encodings, industrial applications, solvers,
   simplifiers, tools, case studies and empirical results. SAT is
   interpreted in a rather broad sense: besides propositional
   satisfiability, it includes the domain of quantified boolean
   formulae (QBF), constraints programming techniques (CSP) for
-  word-level problems and their propositional encoding and
+  word-level problems and their propositional encoding, and
   particularly satisfiability modulo theories (SMT). 
 
 
@@ -99,12 +99,12 @@ TECHNICAL PROGRAM COMMITTEE
   Ramamohan Paturi, University of California, USA
   Lakhdar Sais, Universite d'Artois, France
   Karem A. Sakallah, University of Michigan, USA
-  Uwe Schoening, Universitat Ulm, Germany
+  Uwe Schoening, Universitaet Ulm, Germany
   Roberto Sebastiani, Universita di Trento, Italy
   Carsten Sinz, University of Karlsruhe, Germany
   Robert H. Sloan, University of Illinois, USA
   Niklas Sorensson, Chalmers University of Technology, Sweden
-  Ewald Speckenmeyer, Universitat Koln, Germany
+  Ewald Speckenmeyer, Universitaet Koln, Germany
   Stefan Szeider, Durham University, UK
   Armando Tacchella, Universita di Genova, UK
   Alasdair Urquhart,  University of Toronto, Canada
