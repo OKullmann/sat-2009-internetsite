@@ -1,0 +1,23 @@
+SAT 2009 - 12th International Conference on Theory
+and Applications of Satisfiability Testing
+  Call for Papers
+  June 30 - July 3, 2009, Swansea, United Kingdom
+  http://cs.swan.ac.uk/~csoliver/SAT2009/index.html
+* The International Conference on Theory and Applications of
+  Satisfiability Testing is the primary annual meeting for researchers
+  studying the propositional satisfiability problem (SAT). SAT'09 is
+  the twelfth SAT conference. SAT'09 features the SAT competition, the
+  the Pseudo-Boolean evaluation, and the MAX-SAT evaluation.
+* The topics of the conference span practical and
+  theoretical research on SAT and its applications and include, but are
+  not limited to, proof systems, proof complexity, search algorithms,
+  heuristics, analysis of algorithms, hard instances, randomized
+  formulae, problem encodings, industrial applications, solvers,
+  simplifiers, tools, case studies and empirical results. SAT is
+  interpreted in a rather broad sense: besides propositional
+  satisfiability, it includes the domain of quantified boolean
+  formulae (QBF), constraints programming techniques (CSP) for
+  word-level problems and their propositional encoding and
+  particularly satisfiability modulo theories (SMT).
+* Important dates:  Abstract submission due: 20 Feb 2009;
+  Paper submission: 27 Feb 2009; Notification: 29 Mar 2009.
