@@ -57,13 +57,13 @@ SUBMISSION
 
 PROGRAM CHAIRS
 
-  Oliver Kullmann, Swansea University, Wales, UK
+  Oliver Kullmann, Swansea University, UK
 
 
 INVITED SPEAKERS
 
-  Robert Nieuwenhuis, Tech.~Univ.~Catalonia, Spain
-  Moshe Vardi, Rice University, U.S.A.
+  Robert Nieuwenhuis, Technical University of Catalonia, Spain
+  Moshe Vardi, Rice University, USA
 
 
 IMPORTANT DATES
@@ -80,7 +80,7 @@ TECHNICAL PROGRAM COMMITTEE
   Armin Biere, Johannes Kepler University, Austria
   Stephen A. Cook, University of Toronto, Canada
   Nadia Creignou, Universite de la Mediterranee, France
-  Evgeny Dantsin, Roosevelt University, Chicago
+  Evgeny Dantsin, Roosevelt University, USA
   Adnan Darwiche, UCLA, USA
   John Franco, University of Cincinnati, USA
   Nicola Galesi, Universita di Roma, Italy
@@ -88,13 +88,13 @@ TECHNICAL PROGRAM COMMITTEE
   Marijn Heule, Technische Universiteit Delft, Netherlands
   Edward Hirsch, Steklov Institute of Mathematics, Russia
   Kazuo Iwama, Kyoto University, Japan
+  Hans Kleine Buening, University of Paderborn, Germany
   Daniel LeBerre, Universite d'Artois, France
   Chumin Li, Universite de Picardie, France
   Ines Lynce, Instituto Superior Tecnico, Portugal
   Panagiotis Manolios, Northeastern University, USA
   Joao Marques-Silva, University of Southampton, UK
   David G. Mitchell, Simon Fraser University, Canada
-  Hans Kleine Buening, University of Paderborn, Germany
   Albert Oliveras, Technical University of Catalonia, Spain
   Ramamohan Paturi, University of California, USA
   Lakhdar Sais, Universite d'Artois, France
@@ -104,9 +104,9 @@ TECHNICAL PROGRAM COMMITTEE
   Carsten Sinz, University of Karlsruhe, Germany
   Robert H. Sloan, University of Illinois, USA
   Niklas Sorensson, Chalmers University of Technology, Sweden
-  Ewald Speckenmeyer, Universitaet Koln, Germany
+  Ewald Speckenmeyer, Universitaet Koeln, Germany
   Stefan Szeider, Durham University, UK
-  Armando Tacchella, Universita di Genova, UK
+  Armando Tacchella, Universita di Genova, Italy
   Miroslaw Truszczynski, University of Kentucky, USA
   Alasdair Urquhart,  University of Toronto, Canada
   Allen Van Gelder, Stanford University, USA
@@ -115,7 +115,7 @@ TECHNICAL PROGRAM COMMITTEE
   Sean Weaver, University of Cincinnati, USA
   Emo Welzl, ETH Zurich, Switzerland
   Lintao Zhang, Microsoft Research, USA
-  Xishun Zhao, Sun Yat-Sen University, Guangzhou, P.R. China
+  Xishun Zhao, Sun Yat-Sen University, P.R. China
 
 
 SAT COMPETITION
