@@ -1,0 +1,6 @@
+International Conference on Theory and Applications of Satisfiability Testing
+(SAT 2009). June 30 - July 3, 2009, Swansea, Wales, United Kingdom.
+This conference series is the primary annual meeting for researchers
+studying the propositional satisfiability problem (SAT). The Chair is
+O. Kullmann. The invited speakers include M. Vardi and R. Nieuwenhuis.
+For further information visit http://cs.swan.ac.uk/~csoliver/SAT2009/index.html.
