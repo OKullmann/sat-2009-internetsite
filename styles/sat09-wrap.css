@@ -46,20 +46,19 @@ hr {
     the parent element */
 #page-content { 
 	position : absolute;
-	width : 100%;
 }
 
 .menu {
-	min-height : 18em;
 	width : 22%;
 	float : left;
 	background : #e1e1e1;	
 	font-size : small;
 	margin : 0px;
-	height : 100%;
-	position : absolute;
 	padding : 0px;
 	padding-top : 0.5em;
+	padding-bottom : 0.5em;
+	margin-right : 0.5em;
+	margin-bottom : 0.5em;
 }
 
 
@@ -72,10 +71,21 @@ hr {
 
 .content {
 	margin : 0px;
-	margin-left : 22%;
-	padding-left : 5px;
 	padding-top : 0.5em;
 	font-size : small;
+	padding-left : 10px;
+}
+
+.content li {
+	list-style-position : inside;
+}
+
+.content h2 {
+	clear : left;
+}
+
+.content h2:first-child {
+	clear : none;
 }
 
 #last-modified {
