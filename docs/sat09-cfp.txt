@@ -85,6 +85,7 @@ TECHNICAL PROGRAM COMMITTEE
   John Franco, University of Cincinnati, USA
   Nicola Galesi, Universita di Roma, Italy
   Enrico Giunchiglia, Universita di Genova, Italy
+  Ziyad Hanna, Jasper Design Automation, USA
   Marijn Heule, Technische Universiteit Delft, Netherlands
   Edward Hirsch, Steklov Institute of Mathematics, Russia
   Kazuo Iwama, Kyoto University, Japan
