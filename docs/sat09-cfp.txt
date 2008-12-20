@@ -4,7 +4,7 @@
 	         12th International Conference on
 	Theory and Applications of Satisfiability Testing
 
-	       June 20 - July 3, Swansea, Wales, UK
+	       June 30 - July 3, Swansea, Wales, UK
 
            http://www.cs.swan.ac.uk/~csoliver/SAT2009
 
@@ -52,10 +52,10 @@ SUBMISSION
   Springer LNCS series. The submission page is
   http://www.easychair.org/conferences/?conf=sat2009. Papers have to
   be submitted electronically as PDF files. Abstract submissions are
-  due by February 20 and papers submissions by February 27.
+  due by February 20 and paper submissions by February 27.
 
 
-PROGRAM CHAIRS
+PROGRAM CHAIR
 
   Oliver Kullmann, Swansea University, UK
 
