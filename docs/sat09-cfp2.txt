@@ -1,0 +1,148 @@
+                           SAT 2009
+	             Second Call for Papers
+
+	         12th International Conference on
+	Theory and Applications of Satisfiability Testing
+	       June 30 - July 3, Swansea, Wales, UK
+            http://www.cs.swan.ac.uk/~csoliver/SAT2009
+      
+            Deadline for submissions: 20 FEBRUARY, 2009
+
+
+  The International Conference on Theory and Applications of
+  Satisfiability Testing is the primary annual meeting for researchers
+  studying the propositional satisfiability problem (SAT). SAT'09 is
+  the twelfth SAT conference. SAT'09 features the SAT competition, the
+  the Pseudo-Boolean evaluation, and the MAX-SAT evaluation.
+
+
+SCOPE 
+
+  Many hard combinatorial problems can be encoded into SAT.
+  Therefore improvements on heuristics on the practical, as well as
+  theoretical insights into SAT apply to a large range of real-world
+  problems. More specifically, many important practical verification
+  problems can be rephrased as SAT problems. This applies to
+  verification problems in hardware and software. Thus SAT is becoming
+  one of the most important core technologies to verify secure and
+  dependable systems. The topics of the conference span practical and
+  theoretical research on SAT and its applications, and include, but are
+  not limited to, proof systems, proof complexity, search algorithms,
+  heuristics, analysis of algorithms, hard instances, randomized
+  formulae, problem encodings, industrial applications, solvers,
+  simplifiers, tools, case studies and empirical results. SAT is
+  interpreted in a rather broad sense: besides propositional
+  satisfiability, it includes the domain of quantified boolean
+  formulae (QBF), constraints programming techniques (CSP) for
+  word-level problems and their propositional encoding, and
+  particularly satisfiability modulo theories (SMT). 
+
+
+SUBMISSION
+
+  Submissions should contain original material and can either be
+  regular research papers up to 14 pages or short papers up to 6
+  pages. Double submissions including submissions as short and long
+  papers will be rejected.  Submissions should use the Springer
+  LNCS style. All appendices, tables, figures and the bibliography
+  must fit into the page limit. Submissions deviating from these
+  requirements may be rejected without review. All accepted papers
+  including short papers will be published in the proceedings of the
+  conference. The conference proceedings will be published within
+  Springer LNCS series.
+
+  The submission page is
+  http://www.easychair.org/conferences/?conf=sat2009
+  Papers have to be submitted electronically as PDF files.
+
+  Abstract submissions are due by February 20,
+  and paper submissions by February 27.
+
+
+PROGRAM CHAIR
+
+  Oliver Kullmann, Swansea University, UK
+
+
+INVITED SPEAKERS
+
+  Robert Nieuwenhuis, Technical University of Catalonia, Spain
+  Moshe Vardi, Rice University, USA
+
+
+IMPORTANT DATES
+
+  February 20, Abstract Submission
+  February 27, Paper Submission
+  March 29, Author Notification
+  April 12, Final Version
+
+
+TECHNICAL PROGRAM COMMITTEE
+
+  Dimitris Achlioptas, UC Santa Cruz, USA
+  Armin Biere, Johannes Kepler University, Austria
+  Stephen A. Cook, University of Toronto, Canada
+  Nadia Creignou, Universite de la Mediterranee, France
+  Evgeny Dantsin, Roosevelt University, USA
+  Adnan Darwiche, UCLA, USA
+  John Franco, University of Cincinnati, USA
+  Nicola Galesi, Universita di Roma, Italy
+  Enrico Giunchiglia, Universita di Genova, Italy
+  Ziyad Hanna, Jasper Design Automation, USA
+  Marijn Heule, Technische Universiteit Delft, Netherlands
+  Edward Hirsch, Steklov Institute of Mathematics, Russia
+  Kazuo Iwama, Kyoto University, Japan
+  Hans Kleine Buening, University of Paderborn, Germany
+  Daniel LeBerre, Universite d'Artois, France
+  Chumin Li, Universite de Picardie, France
+  Ines Lynce, Instituto Superior Tecnico, Portugal
+  Panagiotis Manolios, Northeastern University, USA
+  Joao Marques-Silva, University of Southampton, UK
+  David G. Mitchell, Simon Fraser University, Canada
+  Albert Oliveras, Technical University of Catalonia, Spain
+  Ramamohan Paturi, University of California, USA
+  Lakhdar Sais, Universite d'Artois, France
+  Karem A. Sakallah, University of Michigan, USA
+  Uwe Schoening, Universitaet Ulm, Germany
+  Roberto Sebastiani, Universita di Trento, Italy
+  Carsten Sinz, University of Karlsruhe, Germany
+  Robert H. Sloan, University of Illinois, USA
+  Niklas Sorensson, Chalmers University of Technology, Sweden
+  Ewald Speckenmeyer, Universitaet Koeln, Germany
+  Stefan Szeider, Durham University, UK
+  Armando Tacchella, Universita di Genova, Italy
+  Miroslaw Truszczynski, University of Kentucky, USA
+  Alasdair Urquhart,  University of Toronto, Canada
+  Allen Van Gelder, Stanford University, USA
+  Hans van Maaren, Delft University of Technology, Netherlands
+  Toby Walsh, University of New South Wales, Australia
+  Sean Weaver, University of Cincinnati, USA
+  Emo Welzl, ETH Zurich, Switzerland
+  Lintao Zhang, Microsoft Research, USA
+  Xishun Zhao, Sun Yat-Sen University, P.R. China
+
+
+SAT COMPETITION
+http://www.satcompetition.org/2009/
+
+  Daniel Le Berre, Universite d'Artois, France
+  Olivier Roussel, Universite d'Artois, France
+  Laurent Simon, Universite Paris Sud, France
+
+
+PSEUDO BOOLEAN EVALUATION
+http://www.cril.univ-artois.fr/PB09/
+
+  Vasco Manquinho, Technical University of Lisbon, Portugal
+  Olivier Roussel, Universite d'Artois, France
+
+
+MAX-SAT EVALUATION
+http://www.maxsat.udl.cat/09/
+
+  Josep Argelich, IIIA-CSIC, Spain
+  Chu Min Li, Universite de Picardie, France
+  Felip Manya, IIIA-CSIC, Spain
+  Jordi Planes, IIIA-CSIC, Spain
+
