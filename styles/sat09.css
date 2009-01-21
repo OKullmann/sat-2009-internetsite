@@ -78,9 +78,12 @@ hr {
 	font-size : small;
 }
 
+#validate-picture {
+        float : left;
+}
+
 #last-modified {
-	width : 100%;
-	display : block;
-	text-align : right;
+        float : right;
+        font-size : x-small;
 }
 
