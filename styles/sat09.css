@@ -8,6 +8,15 @@ a:link { text-decoration: underline; }
 a:visited { text-decoration: underline; }
 a:hover { color:#222266; }
 
+a img {
+  border : 0px;
+}
+
+.imagelist li {
+	list-style : none;
+	margin-top : 2em;
+}
+
 .pagenav { font-size:small; }
 .index { line-height: 150%; }
 .navitem { font-size: small; }
